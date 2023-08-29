@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Deployment of war file into apache tomcat</h2>
 </body>
 </html>
